@@ -21,7 +21,7 @@ This template provides a basic structure for implementing user authentication in
 4. PORT=3000
    MONGODB_URI=mongodb://localhost:27017/your_database
    JWT_SECRET=your_jwt_secret
-5.npm start
+5. npm start
 
 
 
